@@ -1,5 +1,5 @@
 # WHInter
-WHInter allows you to efficiently fit a LASSO to binary matrices with up to a million features, which corresponds to O(10<sup>12</sup>) interactions. For example, on a problem with 1000 samples and 10.000 features (corresponding to 10<sup>10</sup> interactions), WHINter fits a LASSO for a whole regularisation path in less than one minute. WHInter is described in the paper [WHInter: A Working set algorithm for High-dimensional sparse second order Interaction models] (http://proceedings.mlr.press/v80/morvan18a/morvan18a.pdf).
+WHInter allows you to efficiently fit a LASSO to binary matrices with up to a million features, which corresponds to O(10<sup>12</sup>) interactions. For example, on a problem with 1,000 samples and 10,000 features (corresponding to 10<sup>10</sup> interactions), WHINter fits a LASSO for a whole regularisation path in less than one minute. WHInter is described in the paper [WHInter: A Working set algorithm for High-dimensional sparse second order Interaction models](http://proceedings.mlr.press/v80/morvan18a/morvan18a.pdf).
 
 #### How to run WHINter
 ##### Environment
