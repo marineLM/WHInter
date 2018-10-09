@@ -8,7 +8,7 @@
 #include <ctime>
 #include <string>
 #include <typeinfo>
-#include <armadillo> // armadillo must be included otherwise "std::chrono is not declared" at compilation time 
+#include <chrono>
 #include <limits>
 #include "./mips/mips_mymips.h"
 #include "./mips/mips_naiveTAAT.h"

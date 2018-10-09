@@ -11,7 +11,7 @@
 #include <string>
 #include <string.h>
 #include <typeinfo>
-#include <armadillo> // armadillo must be included otherwise "std::chrono is not declared" at compilation time
+#include <chrono>
 #include <limits>
 #include "./../../../src/mips/mips_mymips.h"
 #include "./../../../src/mips/mips_naiveTAAT.h"

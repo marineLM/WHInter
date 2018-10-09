@@ -20,7 +20,7 @@
 #include <ctime>
 #include <string>
 #include <string.h>
-#include <armadillo>
+#include <chrono>
 
 using namespace std;
 

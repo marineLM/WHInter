@@ -5,10 +5,8 @@
 #include <algorithm>
 #include <iostream>
 #include <fstream>
-#include <string>
+#include <cstring>
 #include <cstdio>
-#include <armadillo> // armadillo must be included otherwise "std::str... is not declared" at compilation time.
-
 
 double dual(const std::vector<double> &theta, const std::vector<double> &Y, const int n){
     double YTY = 0;

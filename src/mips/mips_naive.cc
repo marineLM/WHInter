@@ -3,7 +3,7 @@
 #include <vector>
 #include <iostream>
 #include <math.h>
-#include <armadillo> 
+#include <chrono> 
 
 
 Naive::Naive(std::vector<int> init_best_id) : Mips(init_best_id){};
