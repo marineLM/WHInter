@@ -1,4 +1,4 @@
-CXX=/usr/local/Cellar/gcc\@4.9/4.9.4/bin/g++-4.9
+CXX=g++-4.9
 CXXFLAGS=-std=c++11 -O3
 
 MIPS_OBJ=$(patsubst %.cc,%.o,$(wildcard src/mips/*.cc))

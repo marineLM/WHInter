@@ -12,6 +12,7 @@ To compile:
 ```bash
 make
 ```
+You might need to change the CXX variable in the makefile to the default `g++` instead of `g++-4.9`.
 
 ##### Command line arguments
 To use WHInter:
