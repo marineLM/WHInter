@@ -1,4 +1,4 @@
-#include "mips_NaiveTAAT.h"
+#include "mips_naiveTAAT.h"
 #include <vector>
 #include <algorithm>
 #include <iostream>
