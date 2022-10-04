@@ -2,6 +2,7 @@
 #include <algorithm>
 #include <math.h>
 #include <iostream>
+#include <numeric>
 #include "./../other/model.h"
 #include "mips_mymips.h"
 
